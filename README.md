@@ -21,6 +21,6 @@ Arduino IDE, Thingspeak</br></br>
 ![](ScreenShots/Picture2.jpg)</br></br>
 ![](ScreenShots/picture3.jpg)</br></br>
 ## Authors
-- [Sayali Pawar](https://github.com/sayaliipawar)
+- [Namrata Bomble](https://github.com/namratabomble)
 
 
